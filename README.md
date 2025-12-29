@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there 👋 Nice to see you
+Welcome to my page! I'm Elbhontot, a Junior Fullstack Developer from Indonesia, currently living in Yogyakarta City, Indonesia.
+Things I Code With
+Website Portofolio
+www.elbhontot.my.id
 
-<!--
-**bocahbhontot/bocahbhontot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<img align="right" height="380" width="380" src="https://i.giphy.com/JPUnIuZ6bUaW7C39Ro.webp" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> <a href="https://open.spotify.com/user/314de4hz7tf27ngw2ajznmramctq"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31th7c5nx2tiujwo2ouubm5gabne&count=3&unique=true" alt="Spotify recently played" /> </a> </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/habiboy7/habiboy7/output/snake.svg" alt="Snake animation" />
