@@ -1,7 +1,8 @@
 ## Hey there 👋 Nice to see you
 <br>
-Welcome to my page! I'm Elbhontot, a Junior Fullstack Developer from Indonesia, currently living in Yogyakarta City, Indonesia. <br>
-# Things I Code With
+Welcome to my page! I'm Elbhontot, a Junior Fullstack Developer from Indonesia, currently living in Yogyakarta City, Indonesia.
+<br>
+<h3>Things I Code With</h3>
 Website Portofolio
 https://bocahbhontot.github.io/porto
 
